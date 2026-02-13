@@ -238,7 +238,7 @@ Contributions are welcome.
 ## 👨‍💻 Author
 
 **Gaurav**
-B.Tech – Computer Science & Communication Engineering
+,B.Tech – Computer Science & Communication Engineering
 KIIT Deemed to be University, Bhubaneswar
 
 ---
